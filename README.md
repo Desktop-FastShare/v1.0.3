@@ -1,6 +1,6 @@
 # v1.0.3
 
-<h1>Fast-Share-for-Desktops-Win-x86_64-v1.0.2-stable-portable</h1>
+<h1>Fast-Share-for-Desktops-Win-x86_64-v1.0.3-stable-portable</h1>
 
 <img src='https://avatars2.githubusercontent.com/u/45106317' />
 
@@ -8,7 +8,7 @@ Steps to follow : To start using this feature of the Data Transfer version betwe
 
 1.Open Command Prompt and head to Some folder as of your wish by 'cd' - Change Directory.
 
-2.Enter "git clone https://github.com/Desktop-FastShare/v1.0.2 and hit Enter, In this Example i am following the version v1.0.2 you can find the latest version and clone it on to your PC.
+2.Enter "git clone https://github.com/Desktop-FastShare/v1.0.3 and hit Enter, In this Example i am following the version v1.0.3 you can find the latest version and clone it on to your PC.
 
 3.After Cloning, Head over to root of the FileSystem and Click on the 'FastShare.cmd' which is at the root directory of the Project. You will the See a Browser window with a Server running in background.
 
